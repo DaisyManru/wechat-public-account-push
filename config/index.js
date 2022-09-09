@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o074m6F5M9t5xGwAodN1N9oCfKKw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "uPEbAMNRO7KgONYk04o1-oTVYAZJfISxOxBZwnwe1Do",
+      useTemplateId: "lVaKhrCJmyl6BpZtVjcpiHPBqARriOdlGXJjR7Xfn4k",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -82,9 +82,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "宝贝老婆", "year": "2022", "date": "12-16"},
-    {"type": "节日", "name": "恋爱纪念日", "year": "2021", "date": "10-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "07-19"},
+    {"type": "生日", "name": "我宝贝老婆", "year": "2022", "date": "12-16"},
+    {"type": "节日", "name": "恋爱纪念日", "year": "2021", "date": "10-31"}
   ],
 
   /**
