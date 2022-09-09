@@ -101,10 +101,10 @@ export const config = {
     * 比如：keyword: "love_date" ，在测试号中就是 {{ love_date.DATA }} 
     * */
   CUSTOMIZED_DATE_LIST: [
+     // 相遇纪念日
+    {"keyword": "meet_day", date: "2021-07-19"},
     // 在一起的日子
     {"keyword": "love_day", date: "2021-10-31"},
-    // 相遇纪念日
-    {"keyword": "meet_day", date: "2021-07-19"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
